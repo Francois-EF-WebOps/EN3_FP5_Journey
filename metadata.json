@@ -1,0 +1,7 @@
+{
+  "name": "EcoMoto: Suzuki EN125 Electric Conversion Guide",
+  "description": "A comprehensive, open-source documentation and community guide for sustainable electric conversion of the Suzuki EN125 with battery swapping standards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
